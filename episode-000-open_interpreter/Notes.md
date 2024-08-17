@@ -1,0 +1,1 @@
+Open Interpreter Obsidian Plugin: https://github.com/MikeBirdTech/obsidian-open-interpreter
