@@ -1,2 +1,2 @@
 # tool-use
-Weekly conversations on AI and tech
+Weekly conversations on AI tooling with real examples that you can use today
