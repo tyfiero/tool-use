@@ -1,6 +1,7 @@
 
 # Episode Link
-https://www.youtube.com/watch?v=HjcPRoPfri0
+[![Video Thumbnail](https://img.youtube.com/vi/HjcPRoPfri0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HjcPRoPfri0)
+
 
 
 # Demos
